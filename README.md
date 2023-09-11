@@ -6,3 +6,4 @@
 - PHP
 - Tailwind for the CSS
 - JavaScript for alert script
+- XAMPP for database
